@@ -48,7 +48,9 @@ refer [this](https://www.youtube.com/watch?v=cXEkSQl9wmw&list=LL&index=34&t=26s)
 the logfile of all the data will be present in your local %temp% env to find yours.
 
 
-> [!NOTE]  
-> THIS PROJECT IS FOR EDUCATIONAL PURPOSES
+[DISCLAIMER]
+This project is created for educational purposes only. 
+Any actions taken using this project are the sole responsibility of the user. 
+The author assumes no liability for misuse or damages caused by this project.
 
 
