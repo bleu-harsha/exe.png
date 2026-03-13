@@ -44,13 +44,13 @@ It dumps the current running tasks using tasklist.
 
 ## how do i make the .exe to disguise itself as png
 
-refer [this](https://www.youtube.com/watch?v=cXEkSQl9wmw&list=LL&index=34&t=26s) video, [this](https://www.youtube.com/watch?v=cXEkSQl9wmw&list=LL&index=34&t=26s) video was the one that gave me the [idea](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+refer [this](https://www.youtube.com/watch?v=cXEkSQl9wmw&list=LL&index=34&t=26s) video for more info
 the logfile of all the data will be present in your local %temp% env to find yours.
 
 
-[DISCLAIMER]
-This project is created for educational purposes only. 
-Any actions taken using this project are the sole responsibility of the user. 
-The author assumes no liability for misuse or damages caused by this project.
+>[!NOTE]
+>This project is created for educational purposes only. 
+>Any actions taken using this project are the sole responsibility of the user. 
+>The author assumes no liability for misuse or damages caused by this project.
 
 
