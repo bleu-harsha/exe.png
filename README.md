@@ -1,4 +1,6 @@
 # exe.png
+![image](https://github.com/user-attachments/assets/72cf7802-afba-4387-884e-898123e1f06f)
+
 this is a exe that is disguised as a png to run things. currently the code does almost no harmful tasks and is not associated to webhook and other things(yet)
 
 ## how does this work,what does this exactly do?
@@ -49,5 +51,4 @@ the logfile of all the data will be present in your local %temp% env to find you
 > [!NOTE]  
 > THIS PROJECT IS FOR EDUCATIONAL PURPOSES
 
-![image](https://github.com/user-attachments/assets/72cf7802-afba-4387-884e-898123e1f06f)
 
